@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--nicsynapse01",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/c1ffa83e-4dad-417d-9539-7070bd9ffd5d/resourceGroups/shreyas/providers/Microsoft.Synapse/workspaces/nicsynapse01",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"nicsynapse01-ondemand.9280a5b7-52ba-40c9-b208-4d5f8951a3b4.sql.azuresynapse.net"
+		]
+	}
+}
