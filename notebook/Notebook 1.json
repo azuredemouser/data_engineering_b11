@@ -13,7 +13,7 @@
 				"spark.dynamicAllocation.enabled": "false",
 				"spark.dynamicAllocation.minExecutors": "2",
 				"spark.dynamicAllocation.maxExecutors": "2",
-				"spark.autotune.trackingId": "62c32b2b-6a5a-40af-80f5-4a4c14dfd657"
+				"spark.autotune.trackingId": "f6734d10-ccd7-4ca9-bd6e-d73f3df395bf"
 			}
 		},
 		"metadata": {
@@ -29,6 +29,13 @@
 			"sessionKeepAliveTimeout": 30
 		},
 		"cells": [
+			{
+				"cell_type": "code",
+				"source": [
+					"print(\"this is the code added to the feature branch\")"
+				],
+				"execution_count": null
+			},
 			{
 				"cell_type": "code",
 				"source": [
